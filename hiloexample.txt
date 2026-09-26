@@ -1,0 +1,50 @@
+New shuffled deck.
+Deck hash is ff7dc1e2fe53ad3b6da5c5d9c2205eee33cb731d2f108cc45c753018ed6f6dbc.
+You have 1000 units.
+Enter amount you would like to bet. (Multiple of 4).
+1000
+House's card is HA...
+Enter H (Higher) or L (Lower).
+L
+You bet lower.
+Your card is D5...
+You won!
+You have 1250 units.
+Enter amount you would like to bet. (Multiple of 4).
+1000
+House's card is SK...
+Enter H (Higher) or L (Lower).
+L
+You bet lower.
+Your card is SJ...
+You won!
+You have 1500 units.
+Enter amount you would like to bet. (Multiple of 4).
+1400
+House's card is D8...
+Enter H (Higher) or L (Lower).
+H
+You bet higher.
+Your card is H2...
+You lost!
+You have 100 units.
+Enter amount you would like to bet. (Multiple of 4).
+100
+House's card is CJ...
+Enter H (Higher) or L (Lower).
+H
+You bet higher.
+Your card is DJ...
+You won!
+You have 125 units.
+Enter amount you would like to bet. (Multiple of 4).
+124
+House's card is DA...
+Enter H (Higher) or L (Lower).
+H
+You bet higher.
+Your card is DQ...
+You lost!
+You're out of money!
+Remaining cards in the deck are H5 C9 CA S10 D3 S6 C6 D7 C2 H10 S2 D6 D4 C5 C7 DK H8 H9 S7 D2 S3 S4 C4 CK HQ H7 H6 C3 SQ C8 D9 CQ H3 C10 D10 S8 HJ H4 SA HK S9 S5.
+
